@@ -1,5 +1,5 @@
 # Rsa-C
-Implementação em C do RSA baseado no livro Números Inteiros e Criptografia RSA.
+Implementação em C do RSA baseado no livro Números Inteiros e Criptografia RSA(S. C. Coutinho)
 
 Instruções para o uso(Linux/Mac):
 
