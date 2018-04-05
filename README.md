@@ -12,10 +12,10 @@ gcc -lm *.c -o rsa
 Instruções para o uso(Windows):
 
 Para compilar:
-gcc *.c -o rsa.exe
+gcc *.c -o rsa
 
 Para rodar o programa:
-rsa.exe
+rsa
 
 
 
