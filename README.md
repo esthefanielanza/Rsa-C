@@ -1,21 +1,31 @@
 # Rsa-C
-Implementação em C do RSA baseado no livro Números Inteiros e Criptografia RSA(S. C. Coutinho)
+ A C RSA implementation based in Números Inteiros e Criptografia RSA(S. C. Coutinho)
 
-Instruções para o uso(Linux/Mac):
+## How to use (Linux/Mac):
 
 Para rodar o programa utilize o seguinte comando no terminal:
+To run, enter in terminal
+```
 ./rsa
+```
 
-Para compilar:
+To compile:
+```
 gcc -lm *.c -o rsa 
+```
 
-Instruções para o uso(Windows):
+## How to use (Windows):
 
-Para compilar:
+To compile:
+```
 gcc *.c -o rsa
+```
 
-Para rodar o programa:
+## Run
+To run:
+```
 rsa
+```
 
 
 
